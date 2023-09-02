@@ -1,0 +1,1536 @@
+[
+  {
+    "word": "Derision",
+    "part_of_speech": "Noun",
+    "meaning": "Derision refers to the act of mocking, ridiculing, or showing contempt for someone or something.",
+    "synonyms": [
+      "Ridicule",
+      "Mockery",
+      "Scoffing",
+      "Taunting"
+    ],
+    "antonyms": [
+      "Respect",
+      "Admiration",
+      "Praise",
+      "Approval"
+    ],
+    "example": "His ambitious plans were met with derision from his skeptical peers."
+  },
+  {
+    "word": "Estimation",
+    "part_of_speech": "Noun",
+    "meaning": "Estimation refers to the process of making an educated guess or calculation about the value, size, importance, or quality of something.",
+    "synonyms": [
+      "Assessment",
+      "Appraisal",
+      "Evaluation",
+      "Judgment"
+    ],
+    "antonyms": [
+      "Exactness",
+      "Precision",
+      "Measurement"
+    ],
+    "example": "The estimation of the project's cost turned out to be lower than expected."
+  },
+  {
+    "word": "Admiration",
+    "part_of_speech": "Noun",
+    "meaning": "Admiration is a strong and positive feeling of respect, approval, or regard for someone or something.",
+    "synonyms": [
+      "Respect",
+      "Appreciation",
+      "Esteem",
+      "Reverence"
+    ],
+    "antonyms": [
+      "Disapproval",
+      "Contempt",
+      "Disdain"
+    ],
+    "example": "Her dedication to her work earned her the admiration of her colleagues."
+  },
+  {
+    "word": "Termination",
+    "part_of_speech": "Noun",
+    "meaning": "Termination refers to the act of ending, concluding, or stopping something.",
+    "synonyms": [
+      "Conclusion",
+      "End",
+      "Closure",
+      "Cessation"
+    ],
+    "antonyms": [
+      "Beginning",
+      "Commencement",
+      "Inception"
+    ],
+    "example": "The termination of the project was a difficult decision, but it was necessary due to budget constraints."
+  },
+  {
+    "word": "Disintegration",
+    "part_of_speech": "Noun",
+    "meaning": "Disintegration is the process of breaking down, decomposing, or falling apart into smaller components or fragments.",
+    "synonyms": [
+      "Breakdown",
+      "Collapse",
+      "Decay",
+      "Deterioration"
+    ],
+    "antonyms": [
+      "Integration",
+      "Unity",
+      "Cohesion"
+    ],
+    "example": "The old building was in a state of disintegration, with its walls crumbling and its roof caving in."
+  },
+  {
+    "word": "Fierce",
+    "part_of_speech": "Adjective",
+    "meaning": "Fierce describes something intense, aggressive, or powerful in nature.",
+    "synonyms": [
+      "Intense",
+      "Ferocious",
+      "Vehement",
+      "Wild"
+    ],
+    "antonyms": [
+      "Mild",
+      "Gentle",
+      "Meek",
+      "Tame"
+    ],
+    "example": "The fierce competition among the athletes showcased their determination and dedication."
+  },
+  {
+    "word": "Savage",
+    "part_of_speech": "Adjective",
+    "meaning": "Savage refers to something primitive, uncivilized, or brutal in nature.",
+    "synonyms": [
+      "Brutal",
+      "Barbaric",
+      "Cruel",
+      "Untamed"
+    ],
+    "antonyms": [
+      "Civilized",
+      "Refined",
+      "Gentle",
+      "Cultivated"
+    ],
+    "example": "The tribe's way of life was characterized by their savage rituals and close connection with nature."
+  },
+  {
+    "word": "Vile",
+    "part_of_speech": "Adjective",
+    "meaning": "Vile describes something extremely unpleasant, offensive, or morally reprehensible.",
+    "synonyms": [
+      "Disgusting",
+      "Repulsive",
+      "Wretched",
+      "Abhorrent"
+    ],
+    "antonyms": [
+      "Pleasant",
+      "Admirable",
+      "Decent",
+      "Virtuous"
+    ],
+    "example": "His vile remarks during the argument shocked everyone present in the room."
+  },
+  {
+    "word": "Virtuous",
+    "part_of_speech": "Adjective",
+    "meaning": "Virtuous describes someone who has high moral standards and behaves in a righteous and honorable manner.",
+    "synonyms": [
+      "Righteous",
+      "Moral",
+      "Ethical",
+      "Upright"
+    ],
+    "antonyms": [
+      "Immoral",
+      "Corrupt",
+      "Wicked",
+      "Unprincipled"
+    ],
+    "example": "Her virtuous actions in helping the less fortunate earned her the respect of the community."
+  },
+  {
+    "word": "Wicked",
+    "part_of_speech": "Adjective",
+    "meaning": "Wicked refers to something evil, morally wrong, or intended to cause harm.",
+    "synonyms": [
+      "Evil",
+      "Malevolent",
+      "Sinister",
+      "Malicious"
+    ],
+    "antonyms": [
+      "Good",
+      "Kind",
+      "Virtuous",
+      "Benevolent"
+    ],
+    "example": "The wicked witch in the fairy tale terrorized the village with her dark magic."
+  },
+  {
+    "word": "Blasphemous",
+    "part_of_speech": "Adjective",
+    "meaning": "Blasphemous refers to something that shows disrespect or irreverence towards religious beliefs, deities, or sacred things.",
+    "synonyms": [
+      "Sacrilegious",
+      "Profane",
+      "Impious",
+      "Heretical"
+    ],
+    "antonyms": [
+      "Respectful",
+      "Reverent",
+      "Pious",
+      "Devout"
+    ],
+    "example": "His blasphemous remarks about the divine caused outrage among the religious community."
+  },
+  {
+    "word": "Profane",
+    "part_of_speech": "Adjective",
+    "meaning": "Profane describes something that is vulgar, irreverent, or disrespectful, often in a way that goes against religious or moral norms.",
+    "synonyms": [
+      "Irreverent",
+      "Obscene",
+      "Vulgar",
+      "Impious"
+    ],
+    "antonyms": [
+      "Sacred",
+      "Reverent",
+      "Pious",
+      "Devout"
+    ],
+    "example": "The comedian's profane jokes offended some members of the audience who found them distasteful."
+  },
+  {
+    "word": "Irreverent",
+    "part_of_speech": "Adjective",
+    "meaning": "Irreverent refers to something lacking proper respect or seriousness, especially in relation to religious, cultural, or traditionally revered subjects.",
+    "synonyms": [
+      "Disrespectful",
+      "Impious",
+      "Irreligious",
+      "Contemptuous"
+    ],
+    "antonyms": [
+      "Reverent",
+      "Respectful",
+      "Admiring",
+      "Devout"
+    ],
+    "example": "The irreverent tone of the show's host led to criticism from those who felt he was mocking important social issues."
+  },
+  {
+    "word": "Sharp practice",
+    "part_of_speech": "Noun phrase",
+    "meaning": "\"Sharp practice\" is a term used to describe actions or behaviors that are considered cunning, deceptive, or unethical in business, sports, or other competitive environments.",
+    "synonyms": [
+      "Deception",
+      "Unethical behavior",
+      "Trickery",
+      "Manipulation"
+    ],
+    "antonyms": [
+      "Fair play",
+      "Ethical behavior",
+      "Transparency"
+    ],
+    "example": "The company's use of sharp practice in the negotiations allowed them to secure the deal, but it left the other party feeling cheated and misled."
+  },
+  {
+    "word": "Complacency",
+    "part_of_speech": "Noun",
+    "meaning": "Complacency refers to a state of self-satisfaction or contentment, often accompanied by unawareness or lack of concern about potential risks, problems, or challenges.",
+    "synonyms": [
+      "Self-satisfaction",
+      "Smugness",
+      "Contentment",
+      "Self-congratulation"
+    ],
+    "antonyms": [
+      "Vigilance",
+      "Alertness",
+      "Concern",
+      "Diligence"
+    ],
+    "example": "The team's complacency after their early successes led to a decline in performance and a loss of competitiveness."
+  },
+  {
+    "word": "Heir",
+    "part_of_speech": "Noun",
+    "meaning": "An heir is a person who inherits or is entitled to inherit property, title, or an estate from a deceased relative.",
+    "synonyms": [
+      "Successor",
+      "Beneficiary",
+      "Inheritor"
+    ],
+    "antonyms": [
+      "Ancestor",
+      "Donor",
+      "Predecessor"
+    ],
+    "example": "As the eldest son, he was the heir to the family's vast fortune."
+  },
+  {
+    "word": "Hare",
+    "part_of_speech": "Noun",
+    "meaning": "A hare is a fast-running mammal with long ears, found in various habitats.",
+    "synonyms": [
+      "Rabbit",
+      "Leporid"
+    ],
+    "antonyms": [
+      "Predator",
+      "Carnivore"
+    ],
+    "example": "The hare darted through the field, its long ears flicking as it moved."
+  },
+  {
+    "word": "Obtuse",
+    "part_of_speech": "Adjective",
+    "meaning": "Obtuse describes someone who is slow to understand or perceive things, or something that is lacking sharpness or acute angles.",
+    "synonyms": [
+      "Dull",
+      "Insensitive",
+      "Blunt",
+      "Unintelligent"
+    ],
+    "antonyms": [
+      "Sharp",
+      "Intelligent",
+      "Perceptive",
+      "Acute"
+    ],
+    "example": "His obtuse response to the complex problem revealed his lack of understanding."
+  },
+  {
+    "word": "Banal",
+    "part_of_speech": "Adjective",
+    "meaning": "Banal refers to something that is unoriginal, commonplace, and lacking in freshness or originality.",
+    "synonyms": [
+      "Trite",
+      "Common",
+      "Cliché",
+      "Predictable"
+    ],
+    "antonyms": [
+      "Original",
+      "Unique",
+      "Innovative",
+      "Fresh"
+    ],
+    "example": "The speaker's banal remarks failed to capture the audience's attention."
+  },
+  {
+    "word": "Astute",
+    "part_of_speech": "Adjective",
+    "meaning": "Astute describes someone who is clever, perceptive, and able to understand and judge situations quickly and accurately.",
+    "synonyms": [
+      "Sharp",
+      "Intelligent",
+      "Insightful",
+      "Clever"
+    ],
+    "antonyms": [
+      "Unperceptive",
+      "Dull",
+      "Naive",
+      "Unintelligent"
+    ],
+    "example": "Her astute analysis of the market trends helped the company make strategic decisions."
+  },
+  {
+    "word": "Obsolete",
+    "part_of_speech": "Adjective",
+    "meaning": "Obsolete refers to something that is no longer in use or outdated, usually due to the availability of newer and more advanced alternatives.",
+    "synonyms": [
+      "Outdated",
+      "Old-fashioned",
+      "Antiquated",
+      "Extinct"
+    ],
+    "antonyms": [
+      "Current",
+      "Modern",
+      "Up-to-date",
+      "Contemporary"
+    ],
+    "example": "The company had to replace its obsolete computer systems with more efficient ones."
+  },
+  {
+    "word": "Wax",
+    "part_of_speech": "Verb",
+    "meaning": "Wax refers to the process of increasing in size, strength, or intensity.",
+    "synonyms": [
+      "Grow",
+      "Expand",
+      "Blossom",
+      "Develop"
+    ],
+    "antonyms": [
+      "Wane",
+      "Decrease",
+      "Diminish",
+      "Shrink"
+    ],
+    "example": "The moon began to wax as it moved closer to its full phase."
+  },
+  {
+    "word": "Cane",
+    "part_of_speech": "Noun",
+    "meaning": "A cane is a walking stick, typically made of wood, used to assist walking or for support.",
+    "synonyms": [
+      "Walking stick",
+      "Staff",
+      "Crutch"
+    ],
+    "antonyms": [
+      "None"
+    ],
+    "example": "He leaned on his cane as he walked through the park."
+  },
+  {
+    "word": "Wail",
+    "part_of_speech": "Verb",
+    "meaning": "Wail refers to the act of crying out loudly in grief, pain, or distress.",
+    "synonyms": [
+      "Scream",
+      "Shriek",
+      "Cry",
+      "Moan"
+    ],
+    "antonyms": [
+      "Whisper",
+      "Murmur",
+      "Mutter",
+      "Chuckle"
+    ],
+    "example": "The mourners began to wail as they paid their final respects."
+  },
+  {
+    "word": "Wane",
+    "part_of_speech": "Verb",
+    "meaning": "Wane refers to the process of decreasing in size, strength, or intensity.",
+    "synonyms": [
+      "Decline",
+      "Diminish",
+      "Weaken",
+      "Subside"
+    ],
+    "antonyms": [
+      "Wax",
+      "Increase",
+      "Grow",
+      "Strengthen"
+    ],
+    "example": "As the night progressed, the moon's brightness started to wane."
+  },
+  {
+    "word": "Notion",
+    "part_of_speech": "Noun",
+    "meaning": "A notion is an idea, belief, or concept, often with little evidence or basis.",
+    "synonyms": [
+      "Idea",
+      "Concept",
+      "Belief",
+      "Thought"
+    ],
+    "antonyms": [
+      "Fact",
+      "Reality",
+      "Truth",
+      "Certainty"
+    ],
+    "example": "He had a notion that the project would be more challenging than expected."
+  },
+  {
+    "word": "Quotient",
+    "part_of_speech": "Noun",
+    "meaning": "A quotient is the result of dividing one quantity by another.",
+    "synonyms": [
+      "Result",
+      "Outcome",
+      "Answer",
+      "Product"
+    ],
+    "antonyms": [
+      "Dividend",
+      "Divisor",
+      "Factor",
+      "Multiplier"
+    ],
+    "example": "The quotient of 15 divided by 3 is 5."
+  },
+  {
+    "word": "Brood",
+    "part_of_speech": "Noun",
+    "meaning": "A brood refers to a group of young animals, especially birds, that are hatched or born at the same time.",
+    "synonyms": [
+      "Offspring",
+      "Chicks",
+      "Litter",
+      "Progeny"
+    ],
+    "antonyms": [
+      "Parent",
+      "Adults",
+      "Older generation"
+    ],
+    "example": "The hen was seen keeping her brood of chicks warm under her feathers."
+  },
+  {
+    "word": "Constellation",
+    "part_of_speech": "Noun",
+    "meaning": "A constellation is a group of stars that forms a recognizable pattern in the sky and is named after a mythological figure, animal, or object.",
+    "synonyms": [
+      "Star group",
+      "Star pattern",
+      "Configuration",
+      "Asterism"
+    ],
+    "antonyms": [
+      "Disarray",
+      "Random stars",
+      "Unorganized"
+    ],
+    "example": "The constellation Orion is visible in the night sky during the winter months."
+  },
+  {
+    "word": "Caravan",
+    "part_of_speech": "Noun",
+    "meaning": "A caravan is a group of travelers, traders, or pilgrims journeying together, often in a single file and usually with a set of vehicles or pack animals.",
+    "synonyms": [
+      "Convoy",
+      "Cavalcade",
+      "Procession",
+      "Travelers"
+    ],
+    "antonyms": [
+      "Individual",
+      "Solitary traveler",
+      "Isolation"
+    ],
+    "example": "The caravan of merchants traveled across the desert in search of new markets."
+  },
+  {
+    "word": "Gypsies",
+    "part_of_speech": "Noun",
+    "meaning": "Gypsies, also known as Roma, are an ethnic group with origins in South Asia. They are known for their nomadic lifestyle and distinct culture.",
+    "synonyms": [
+      "Roma",
+      "Travelers",
+      "Nomads",
+      "Roamers"
+    ],
+    "antonyms": [
+      "Sedentary people",
+      "Non-nomads",
+      "Stationary community"
+    ],
+    "example": "The colorful clothing and music of the Gypsies reflect their rich cultural heritage."
+  },
+  {
+    "word": "Dearth",
+    "part_of_speech": "Noun",
+    "meaning": "A dearth refers to a scarcity or lack of something, especially a shortage of food or essential resources.",
+    "synonyms": [
+      "Shortage",
+      "Lack",
+      "Scarcity",
+      "Deficiency"
+    ],
+    "antonyms": [
+      "Abundance",
+      "Plenty",
+      "Surplus",
+      "Excess"
+    ],
+    "example": "The drought resulted in a dearth of crops, leading to rising food prices."
+  },
+  {
+    "word": "Connotation",
+    "part_of_speech": "Noun",
+    "meaning": "A connotation refers to an additional meaning or nuance that a word, phrase, or expression carries beyond its literal definition.",
+    "synonyms": [
+      "Undertone",
+      "Implication",
+      "Suggestion",
+      "Inference"
+    ],
+    "antonyms": [
+      "Denotation",
+      "Literal meaning",
+      "Explicitness"
+    ],
+    "example": "The word 'home' has positive connotations of warmth and comfort."
+  },
+  {
+    "word": "Quarry",
+    "part_of_speech": "Noun",
+    "meaning": "A quarry can refer to an open excavation or pit where stone, minerals, or other materials are extracted, or it can refer to the object of a hunt or pursuit.",
+    "synonyms": [
+      "Mine",
+      "Excavation",
+      "Pit",
+      "Hunt"
+    ],
+    "antonyms": [
+      "Deposit",
+      "Stockpile",
+      "Retreat",
+      "Protection"
+    ],
+    "example": "The workers in the quarry extracted large blocks of marble for construction."
+  },
+  {
+    "word": "Triumph",
+    "part_of_speech": "Noun",
+    "meaning": "Triumph refers to a great victory or achievement, often accompanied by a sense of joy, pride, and celebration.",
+    "synonyms": [
+      "Victory",
+      "Success",
+      "Conquest",
+      "Achievement"
+    ],
+    "antonyms": [
+      "Defeat",
+      "Failure",
+      "Loss",
+      "Setback"
+    ],
+    "example": "The team's triumph in the championship game was celebrated by fans all over the city."
+  },
+  {
+    "word": "Perished",
+    "part_of_speech": "Verb",
+    "meaning": "Perished refers to the state of having died or been destroyed, often due to natural causes, accidents, or adverse circumstances.",
+    "synonyms": [
+      "Died",
+      "Expired",
+      "Passed away",
+      "Vanished"
+    ],
+    "antonyms": [
+      "Survived",
+      "Lived",
+      "Thrived",
+      "Endured"
+    ],
+    "example": "Many ancient civilizations have perished over the centuries, leaving behind only ruins."
+  },
+  {
+    "word": "Arduous",
+    "part_of_speech": "Adjective",
+    "meaning": "Arduous describes something that requires a lot of effort, labor, or endurance, often involving difficult or tiring tasks.",
+    "synonyms": [
+      "Difficult",
+      "Demanding",
+      "Challenging",
+      "Laborious"
+    ],
+    "antonyms": [
+      "Easy",
+      "Simple",
+      "Effortless",
+      "Undemanding"
+    ],
+    "example": "Climbing the steep mountain trail was an arduous task, but the view from the top was worth it."
+  },
+  {
+    "word": "Strenuous",
+    "part_of_speech": "Adjective",
+    "meaning": "Strenuous refers to something that requires vigorous physical exertion or mental effort, often leading to fatigue.",
+    "synonyms": [
+      "Demanding",
+      "Taxing",
+      "Exhausting",
+      "Tiring"
+    ],
+    "antonyms": [
+      "Easy",
+      "Relaxed",
+      "Effortless",
+      "Undemanding"
+    ],
+    "example": "The strenuous workout left him exhausted but satisfied with his progress."
+  },
+  {
+    "word": "Recreational",
+    "part_of_speech": "Adjective",
+    "meaning": "Recreational relates to activities done for enjoyment, relaxation, or leisure, rather than as a job or obligation.",
+    "synonyms": [
+      "Leisure",
+      "Entertainment",
+      "Amusing",
+      "Fun"
+    ],
+    "antonyms": [
+      "Work-related",
+      "Professional",
+      "Serious",
+      "Obligatory"
+    ],
+    "example": "She enjoys hiking and swimming as recreational activities to unwind after a busy week."
+  },
+  {
+    "word": "Contentious",
+    "part_of_speech": "Adjective",
+    "meaning": "Contentious describes something that is likely to cause disagreement, controversy, or argument.",
+    "synonyms": [
+      "Controversial",
+      "Debatable",
+      "Disputable",
+      "Disagreement"
+    ],
+    "antonyms": [
+      "Agreeable",
+      "Harmonious",
+      "Uncontroversial",
+      "Peaceful"
+    ],
+    "example": "The issue of taxes proved to be highly contentious among the members of the committee.",
+    "importance": 1
+  },
+  {
+    "word": "Embracing",
+    "part_of_speech": "Verb",
+    "meaning": "Embracing refers to the act of accepting or welcoming something willingly and with open arms.",
+    "synonyms": [
+      "Accepting",
+      "Adopting",
+      "Welcoming",
+      "Incorporating"
+    ],
+    "antonyms": [
+      "Rejecting",
+      "Avoiding",
+      "Shunning",
+      "Excluding"
+    ],
+    "example": "The company is embracing new technologies to stay competitive in the market.",
+    "importance": 1
+  },
+  {
+    "word": "Tailored",
+    "part_of_speech": "Adjective",
+    "meaning": "Tailored describes something that is customized or designed to fit specific requirements or needs.",
+    "synonyms": [
+      "Customized",
+      "Adapted",
+      "Personalized",
+      "Bespoke"
+    ],
+    "antonyms": [
+      "Generic",
+      "Standard",
+      "Mass-produced",
+      "One-size-fits-all"
+    ],
+    "example": "The workshop offered tailored solutions to address each participant's unique challenges.",
+    "importance": 1
+  },
+  {
+    "word": "Impose",
+    "part_of_speech": "Verb",
+    "meaning": "Impose refers to the act of establishing or applying something, often by authority, force, or demand.",
+    "synonyms": [
+      "Enforce",
+      "Apply",
+      "Mandate",
+      "Institute"
+    ],
+    "antonyms": [
+      "Revoke",
+      "Abolish",
+      "Remove",
+      "Relax"
+    ],
+    "example": "The government decided to impose stricter regulations on environmental protection.",
+    "importance": 1
+  },
+  {
+    "word": "Evoke",
+    "part_of_speech": "Verb",
+    "meaning": "Evoke means to bring forth or elicit a reaction, feeling, or memory.",
+    "synonyms": [
+      "Stimulate",
+      "Provoke",
+      "Prompt",
+      "Awaken"
+    ],
+    "antonyms": [
+      "Suppress",
+      "Stifle",
+      "Inhibit",
+      "Dull"
+    ],
+    "example": "The painting's vibrant colors evoke a sense of happiness and nostalgia.",
+    "importance": 1
+  },
+  {
+    "word": "Prudent",
+    "part_of_speech": "Adjective",
+    "meaning": "Prudent describes someone who shows careful judgment and wisdom in making decisions or taking actions.",
+    "synonyms": [
+      "Cautious",
+      "Judicious",
+      "Sensible",
+      "Wise"
+    ],
+    "antonyms": [
+      "Rash",
+      "Impulsive",
+      "Reckless",
+      "Unwise"
+    ],
+    "example": "It's always prudent to save money for unexpected expenses.",
+    "importance": 1
+  },
+  {
+    "word": "Diffidence",
+    "part_of_speech": "Noun",
+    "meaning": "Diffidence is a lack of self-confidence or self-assurance, often leading to hesitancy and uncertainty.",
+    "synonyms": [
+      "Shyness",
+      "Timidity",
+      "Insecurity",
+      "Reserve"
+    ],
+    "antonyms": [
+      "Confidence",
+      "Assurance",
+      "Boldness",
+      "Self-assuredness"
+    ],
+    "example": "Her diffidence prevented her from speaking up during the meeting.",
+    "importance": 1
+  },
+  {
+    "word": "Emanate",
+    "part_of_speech": "Verb",
+    "meaning": "Emanate means to originate, emit, or come forth from a source, often in the form of energy, light, or ideas.",
+    "synonyms": [
+      "Radiate",
+      "Flow",
+      "Issue",
+      "Proceed"
+    ],
+    "antonyms": [
+      "Absorb",
+      "Conceal",
+      "Withhold",
+      "Retain"
+    ],
+    "example": "The warm scent of freshly baked bread emanated from the bakery.",
+    "importance": 1
+  },
+  {
+    "word": "Aplomb",
+    "part_of_speech": "Noun",
+    "meaning": "Aplomb refers to self-confidence and assurance, especially in challenging situations.",
+    "synonyms": [
+      "Poise",
+      "Composure",
+      "Confidence",
+      "Self-assuredness"
+    ],
+    "antonyms": [
+      "Nervousness",
+      "Anxiety",
+      "Insecurity",
+      "Hesitation"
+    ],
+    "example": "She handled the difficult question with remarkable aplomb.",
+    "importance": 1
+  },
+  {
+    "word": "Impeccable",
+    "part_of_speech": "Adjective",
+    "meaning": "Impeccable describes something that is flawless, perfect, and without any errors or faults.",
+    "synonyms": [
+      "Flawless",
+      "Perfect",
+      "Immaculate",
+      "Unblemished"
+    ],
+    "antonyms": [
+      "Faulty",
+      "Flawed",
+      "Imperfect",
+      "Defective"
+    ],
+    "example": "His impeccable manners and attire made a lasting impression on everyone.",
+    "importance": 4
+  },
+  {
+    "word": "Inexplicable",
+    "part_of_speech": "Adjective",
+    "meaning": "Inexplicable describes something that cannot be explained or understood by reasoning.",
+    "synonyms": [
+      "Unexplainable",
+      "Unfathomable",
+      "Mysterious",
+      "Baffling"
+    ],
+    "antonyms": [
+      "Explainable",
+      "Understandable",
+      "Clear",
+      "Logical"
+    ],
+    "example": "The sudden disappearance of the ship remains an inexplicable mystery.",
+    "importance": 2
+  },
+  {
+    "word": "Linger",
+    "part_of_speech": "Verb",
+    "meaning": "Linger means to stay or remain in a place, often longer than necessary or expected.",
+    "synonyms": [
+      "Stay",
+      "Remain",
+      "Dawdle",
+      "Loiter"
+    ],
+    "antonyms": [
+      "Leave",
+      "Depart",
+      "Hurry",
+      "Rush"
+    ],
+    "example": "The scent of the flowers made her want to linger in the garden.",
+    "importance": 1
+  },
+  {
+    "word": "Through the back door",
+    "part_of_speech": "Phrase",
+    "meaning": "Through the back door refers to a method of achieving something indirectly or secretly, often bypassing established procedures.",
+    "synonyms": [
+      "Indirectly",
+      "Secretly",
+      "Surreptitiously",
+      "Unofficially"
+    ],
+    "antonyms": [
+      "Openly",
+      "Directly",
+      "Transparently",
+      "Officially"
+    ],
+    "example": "They gained access to the exclusive party through the back door.",
+    "importance": 1
+  },
+  {
+    "word": "Romp home",
+    "part_of_speech": "Phrase",
+    "meaning": "Romp home means to win easily or decisively in a competition or race.",
+    "synonyms": [
+      "Win easily",
+      "Triumph",
+      "Sweep",
+      "Cruise to victory"
+    ],
+    "antonyms": [
+      "Lose",
+      "Struggle",
+      "Suffer defeat"
+    ],
+    "example": "The team's strong performance allowed them to romp home with a clear victory.",
+    "importance": 1
+  },
+  {
+    "word": "Take heart",
+    "part_of_speech": "Phrase",
+    "meaning": "Take heart means to be encouraged, find courage, or be optimistic in a challenging situation.",
+    "synonyms": [
+      "Be encouraged",
+      "Find hope",
+      "Stay positive",
+      "Take courage"
+    ],
+    "antonyms": [
+      "Lose hope",
+      "Lose heart",
+      "Be discouraged",
+      "Despair"
+    ],
+    "example": "Even in difficult times, we should take heart and remember that things can improve.",
+    "importance": 1
+  },
+  {
+    "word": "Contentious",
+    "part_of_speech": "Adjective",
+    "meaning": "Contentious describes something that is likely to cause disagreement, controversy, or argument.",
+    "synonyms": [
+      "Controversial",
+      "Debatable",
+      "Disputable",
+      "Disagreement"
+    ],
+    "antonyms": [
+      "Agreeable",
+      "Harmonious",
+      "Uncontroversial",
+      "Peaceful"
+    ],
+    "example": "The issue of taxes proved to be highly contentious among the members of the committee.",
+    "importance": 1
+  },
+  {
+    "word": "Moot",
+    "part_of_speech": "Adjective",
+    "meaning": "Moot refers to a point or topic that is open to debate, discussion, or uncertainty, often lacking practical significance.",
+    "synonyms": [
+      "Debatable",
+      "Questionable",
+      "Controversial",
+      "Arguable"
+    ],
+    "antonyms": [
+      "Established",
+      "Certain",
+      "Undebatable",
+      "Settled"
+    ],
+    "example": "The proposed changes are now moot due to the cancellation of the project.",
+    "importance": 2
+  },
+  {
+    "word": "Lacerate",
+    "part_of_speech": "Verb",
+    "meaning": "Lacerate means to tear or deeply cut the flesh, often resulting in a wound or injury.",
+    "synonyms": [
+      "Tear",
+      "Mangle",
+      "Mutilate",
+      "Injure"
+    ],
+    "antonyms": [
+      "Heal",
+      "Mend",
+      "Repair",
+      "Soothe"
+    ],
+    "example": "The sharp thorns lacerated his hands as he tried to free the trapped animal.",
+    "importance": 1
+  },
+  {
+    "word": "Procrastinate",
+    "part_of_speech": "Verb",
+    "meaning": "Procrastinate means to delay or postpone tasks or actions, often due to avoidance or indecision.",
+    "synonyms": [
+      "Delay",
+      "Postpone",
+      "Put off",
+      "Linger"
+    ],
+    "antonyms": [
+      "Act",
+      "Begin",
+      "Proceed",
+      "Prompt"
+    ],
+    "example": "She tended to procrastinate until the last minute before starting her assignments.",
+    "importance": 1
+  },
+  {
+    "word": "Recuperate",
+    "part_of_speech": "Verb",
+    "meaning": "Recuperate means to recover health, strength, or well-being after an illness, injury, or period of stress.",
+    "synonyms": [
+      "Recover",
+      "Heal",
+      "Regain strength",
+      "Rest"
+    ],
+    "antonyms": [
+      "Decline",
+      "Worsen",
+      "Deteriorate",
+      "Languish"
+    ],
+    "example": "After the surgery, he needed time to rest and recuperate before returning to work.",
+    "importance": 1
+  },
+  {
+    "word": "Copulate",
+    "part_of_speech": "Verb",
+    "meaning": "Copulate refers to the act of sexual intercourse between individuals, especially of the same species.",
+    "synonyms": [
+      "Mate",
+      "Breed",
+      "Reproduce",
+      "Have sex"
+    ],
+    "antonyms": [
+      "Abstain",
+      "Refrain",
+      "Avoid",
+      "Remain celibate"
+    ],
+    "example": "Animals often copulate during their mating season to ensure the survival of their species.",
+    "importance": 1
+  },
+  {
+    "word": "Frugal",
+    "part_of_speech": "Adjective",
+    "meaning": "Frugal describes someone who is economical and avoids wasteful spending.",
+    "synonyms": [
+      "Thrifty",
+      "Sparing",
+      "Economical",
+      "Prudent"
+    ],
+    "antonyms": [
+      "Extravagant",
+      "Wasteful",
+      "Lavish",
+      "Profligate"
+    ],
+    "example": "She leads a frugal lifestyle, always seeking ways to save money.",
+    "importance": 1
+  },
+  {
+    "word": "Preacher",
+    "part_of_speech": "Noun",
+    "meaning": "A preacher is a person who delivers religious sermons and teachings to a congregation.",
+    "synonyms": [
+      "Minister",
+      "Clergyman",
+      "Pastor",
+      "Evangelist"
+    ],
+    "antonyms": [
+      "Atheist",
+      "Non-believer",
+      "Skeptic",
+      "Doubter"
+    ],
+    "example": "The preacher delivered an inspiring sermon on compassion and forgiveness.",
+    "importance": 1
+  },
+  {
+    "word": "Moralist",
+    "part_of_speech": "Noun",
+    "meaning": "A moralist is a person who advocates or teaches principles of morality and ethics.",
+    "synonyms": [
+      "Ethicist",
+      "Philosopher",
+      "Conscience",
+      "Principled person"
+    ],
+    "antonyms": [
+      "Amoral person",
+      "Unscrupulous person",
+      "Immoral person",
+      "Unprincipled person"
+    ],
+    "example": "The moralist emphasized the importance of honesty and integrity in all aspects of life.",
+    "importance": 1
+  },
+  {
+    "word": "Samaritan",
+    "part_of_speech": "Noun",
+    "meaning": "A Samaritan refers to a compassionate and helpful person, especially one who selflessly aids those in need.",
+    "synonyms": [
+      "Benefactor",
+      "Good Samaritan",
+      "Helper",
+      "Altruist"
+    ],
+    "antonyms": [
+      "Selfish person",
+      "Unhelpful person",
+      "Indifferent person",
+      "Cruel person"
+    ],
+    "example": "The Samaritan stopped to assist the injured pedestrian after the accident.",
+    "importance": 1
+  },
+  {
+    "word": "Pardoner",
+    "part_of_speech": "Noun",
+    "meaning": "A pardoner is a person who grants pardons or forgiveness, often in a religious context.",
+    "synonyms": [
+      "Forgiver",
+      "Absolver",
+      "Remitter",
+      "Releaser"
+    ],
+    "antonyms": [
+      "Accuser",
+      "Condemner",
+      "Blamer",
+      "Prosecutor"
+    ],
+    "example": "In medieval times, a pardoner would grant pardons to those seeking forgiveness for their sins.",
+    "importance": 1
+  },
+  {
+    "word": "Transience",
+    "part_of_speech": "Noun",
+    "meaning": "Transience refers to the state of being temporary, fleeting, or not lasting for a long time.",
+    "synonyms": [
+      "Ephemerality",
+      "Fleetingness",
+      "Brevity",
+      "Short-lived nature"
+    ],
+    "antonyms": [
+      "Permanence",
+      "Endurance",
+      "Stability",
+      "Longevity"
+    ],
+    "example": "The beauty of cherry blossoms is often celebrated for its transience, reminding us of the impermanence of life.",
+    "importance": 1
+  },
+  {
+    "word": "Resilience",
+    "part_of_speech": "Noun",
+    "meaning": "Resilience refers to the ability to recover and bounce back from difficulties, challenges, or setbacks.",
+    "synonyms": [
+      "Toughness",
+      "Adaptability",
+      "Endurance",
+      "Recovery"
+    ],
+    "antonyms": [
+      "Vulnerability",
+      "Fragility",
+      "Weakness",
+      "Sensitivity"
+    ],
+    "example": "Her resilience helped her overcome adversity and emerge stronger than before.",
+    "importance": 1
+  },
+  {
+    "word": "Linger",
+    "part_of_speech": "Verb",
+    "meaning": "Linger means to stay or remain in a place, often longer than necessary or expected.",
+    "synonyms": [
+      "Stay",
+      "Remain",
+      "Dawdle",
+      "Loiter"
+    ],
+    "antonyms": [
+      "Leave",
+      "Depart",
+      "Hurry",
+      "Rush"
+    ],
+    "example": "The scent of the flowers made her want to linger in the garden.",
+    "importance": 1
+  },
+  {
+    "word": "Spurt",
+    "part_of_speech": "Noun/Verb",
+    "meaning": "Spurt, as a noun, refers to a sudden and brief burst of activity, growth, or effort. As a verb, it means to gush or flow out suddenly and forcefully.",
+    "synonyms": [
+      "Burst",
+      "Surge",
+      "Rush",
+      "Eruption"
+    ],
+    "antonyms": [
+      "Decline",
+      "Slowdown",
+      "Stagnation",
+      "Trickle"
+    ],
+    "example": "She had a spurt of creativity and wrote several poems in a short period. The water spurted out of the broken pipe.",
+    "importance": 1
+  },
+  {
+    "word": "Tepid",
+    "part_of_speech": "Adjective",
+    "meaning": "Tepid describes something that is lukewarm or lacking enthusiasm, vigor, or conviction.",
+    "synonyms": [
+      "Lukewarm",
+      "Halfhearted",
+      "Indifferent",
+      "Unenthusiastic"
+    ],
+    "antonyms": [
+      "Passionate",
+      "Enthusiastic",
+      "Zealous",
+      "Fiery"
+    ],
+    "example": "The audience's tepid response to the performance disappointed the actors.",
+    "importance": 2
+  },
+  {
+    "word": "Fervent",
+    "part_of_speech": "Adjective",
+    "meaning": "Fervent describes someone who is passionate, enthusiastic, or intensely devoted to a cause or belief.",
+    "synonyms": [
+      "Passionate",
+      "Zealous",
+      "Dedicated",
+      "Eager"
+    ],
+    "antonyms": [
+      "Apathetic",
+      "Indifferent",
+      "Cool",
+      "Unenthusiastic"
+    ],
+    "example": "Her fervent support for social justice inspired many to join the cause.",
+    "importance": 1
+  },
+  {
+    "word": "Dented",
+    "part_of_speech": "Adjective",
+    "meaning": "Dented describes something that has a shallow depression or damage on its surface, often caused by impact or pressure.",
+    "synonyms": [
+      "Damaged",
+      "Bent",
+      "Marred",
+      "Scratched"
+    ],
+    "antonyms": [
+      "Undamaged",
+      "Intact",
+      "Unblemished",
+      "Unharmed"
+    ],
+    "example": "The car's door was dented in the parking lot collision.",
+    "importance": 1
+  },
+  {
+    "word": "Feeble",
+    "part_of_speech": "Adjective",
+    "meaning": "Feeble describes something that is weak, lacking strength, or ineffective.",
+    "synonyms": [
+      "Weak",
+      "Frail",
+      "Fragile",
+      "Ineffectual"
+    ],
+    "antonyms": [
+      "Strong",
+      "Robust",
+      "Powerful",
+      "Effective"
+    ],
+    "example": "His feeble attempt to lift the heavy box proved unsuccessful.",
+    "importance": 1
+  },
+  {
+    "word": "Flimsy",
+    "part_of_speech": "Adjective",
+    "meaning": "Flimsy describes something that is easily damaged, weak, or lacking in substance and durability.",
+    "synonyms": [
+      "Weak",
+      "Fragile",
+      "Thin",
+      "Insubstantial"
+    ],
+    "antonyms": [
+      "Sturdy",
+      "Solid",
+      "Durable",
+      "Robust"
+    ],
+    "example": "The flimsy cardboard box fell apart when it got wet in the rain.",
+    "importance": 2
+  },
+  {
+    "word": "Efficacious",
+    "part_of_speech": "Adjective",
+    "meaning": "Efficacious describes something that is effective in achieving its intended purpose or producing the desired results.",
+    "synonyms": [
+      "Effective",
+      "Efficient",
+      "Productive",
+      "Potent"
+    ],
+    "antonyms": [
+      "Ineffective",
+      "Inefficient",
+      "Inefficacious",
+      "Impotent"
+    ],
+    "example": "The new medication has been proven to be highly efficacious in treating the illness.",
+    "importance": 1
+  },
+  {
+    "word": "Proliferate",
+    "part_of_speech": "Verb",
+    "meaning": "Proliferate means to rapidly increase in number or spread widely.",
+    "synonyms": [
+      "Multiply",
+      "Expand",
+      "Breed",
+      "Propagate"
+    ],
+    "antonyms": [
+      "Decrease",
+      "Diminish",
+      "Decline",
+      "Shrink"
+    ],
+    "example": "The use of smartphones has proliferated in recent years, reaching people of all ages.",
+    "importance": 3
+  },
+  {
+    "word": "Burgeon",
+    "part_of_speech": "Verb",
+    "meaning": "Burgeon means to grow or develop rapidly and flourish, often referring to plants, businesses, or populations.",
+    "synonyms": [
+      "Thrive",
+      "Flourish",
+      "Expand",
+      "Prosper"
+    ],
+    "antonyms": [
+      "Shrink",
+      "Decline",
+      "Diminish",
+      "Wane"
+    ],
+    "example": "The city's economy began to burgeon with the opening of new industries and businesses.",
+    "importance": 2
+  },
+  {
+    "word": "Soaring",
+    "part_of_speech": "Adjective/Verb",
+    "meaning": "Soaring, as an adjective, describes something that is flying or rising high in the air. As a verb, it means to rise rapidly to a great height.",
+    "synonyms": [
+      "Ascending",
+      "Flying",
+      "Ascending",
+      "Rising"
+    ],
+    "antonyms": [
+      "Descending",
+      "Falling",
+      "Sinking",
+      "Plummeting"
+    ],
+    "example": "The soaring eagle glided gracefully through the sky. The stock prices began to soar after the positive earnings report.",
+    "importance": 2
+  },
+  {
+    "word": "Taper off",
+    "part_of_speech": "Phrasal Verb",
+    "meaning": "Taper off means to gradually decrease in intensity, volume, or quantity.",
+    "synonyms": [
+      "Diminish",
+      "Decrease",
+      "Subside",
+      "Weaken"
+    ],
+    "antonyms": [
+      "Escalate",
+      "Increase",
+      "Intensify",
+      "Rise"
+    ],
+    "example": "After the holiday season, sales tend to taper off as people reduce their spending.",
+    "importance": 1
+  },
+  {
+    "word": "Rolled back",
+    "part_of_speech": "Phrasal Verb",
+    "meaning": "Rolled back means to reverse or undo a previous decision, policy, or action.",
+    "synonyms": [
+      "Reversed",
+      "Canceled",
+      "Rescinded",
+      "Overturned"
+    ],
+    "antonyms": [
+      "Implemented",
+      "Enforced",
+      "Maintained",
+      "Upheld"
+    ],
+    "example": "The government rolled back the controversial tax increase after public protests.",
+    "importance": 1
+  },
+  {
+    "word": "Roll out",
+    "part_of_speech": "Phrasal Verb",
+    "meaning": "Roll out means to introduce, launch, or implement something on a large scale or to the public.",
+    "synonyms": [
+      "Launch",
+      "Introduce",
+      "Unveil",
+      "Debut"
+    ],
+    "antonyms": [
+      "Withdraw",
+      "Cancel",
+      "Revoke",
+      "Retract"
+    ],
+    "example": "The company plans to roll out its new product line next month.",
+    "importance": 1
+  },
+  {
+    "word": "Playing truant",
+    "part_of_speech": "Phrase",
+    "meaning": "Playing truant means to skip school or be absent from a place of responsibility without permission or excuse.",
+    "synonyms": [
+      "Skipping school",
+      "Absent without leave",
+      "Cutting class",
+      "Bunking off"
+    ],
+    "antonyms": [
+      "Attending school",
+      "Being present",
+      "Not skipping"
+    ],
+    "example": "The student was caught playing truant from school and faced disciplinary action.",
+    "importance": 1
+  },
+  {
+    "word": "Swept under the carpet",
+    "part_of_speech": "Phrase",
+    "meaning": "Swept under the carpet means to conceal or hide something, especially a problem or issue, instead of addressing it openly.",
+    "synonyms": [
+      "Covered up",
+      "Concealed",
+      "Hidden",
+      "Suppressed"
+    ],
+    "antonyms": [
+      "Addressed",
+      "Confronted",
+      "Dealt with",
+      "Resolved"
+    ],
+    "example": "The company's unethical practices were swept under the carpet for years, but eventually, they were exposed.",
+    "importance": 1
+  },
+  {
+    "word": "Last straw",
+    "part_of_speech": "Phrase",
+    "meaning": "Last straw refers to the final event or situation that causes someone to reach a breaking point or make a decisive change.",
+    "synonyms": [
+      "Breaking point",
+      "Crisis",
+      "Turning point",
+      "Decisive moment"
+    ],
+    "antonyms": [
+      "Beginning",
+      "Starting point",
+      "Initiation",
+      "Opening"
+    ],
+    "example": "His constant disrespect was the last straw, and she decided to end the relationship.",
+    "importance": 1
+  ]
