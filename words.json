@@ -1533,4 +1533,271 @@
     ],
     "example": "His constant disrespect was the last straw, and she decided to end the relationship.",
     "importance": 1
-  ]
+  },
+  {
+    "word": "Expedite",
+    "part_of_speech": "Verb",
+    "meaning": "Expedite means to make a process or action happen more quickly and efficiently.",
+    "synonyms": [
+      "Accelerate",
+      "Hasten",
+      "Facilitate",
+      "Speed up"
+    ],
+    "antonyms": [
+      "Delay",
+      "Hinder",
+      "Impede",
+      "Slow down"
+    ],
+    "example": "To meet the deadline, they decided to expedite the production process.",
+    "importance": 1
+  },
+  {
+    "word": "Resurgence",
+    "part_of_speech": "Noun",
+    "meaning": "Resurgence refers to a revival or renewal, often of a particular trend, activity, or phenomenon.",
+    "synonyms": [
+      "Revival",
+      "Recovery",
+      "Reawakening",
+      "Renewal"
+    ],
+    "antonyms": [
+      "Decline",
+      "Downturn",
+      "Decrease",
+      "Fading"
+    ],
+    "example": "The city witnessed a resurgence of interest in its historical landmarks.",
+    "importance": 1
+  },
+  {
+    "word": "Skew",
+    "part_of_speech": "Verb/Noun",
+    "meaning": "Skew, as a verb, means to distort or make something biased in a particular direction. As a noun, it refers to a slant or bias.",
+    "synonyms": [
+      "Distort",
+      "Bias",
+      "Twist",
+      "Influence"
+    ],
+    "antonyms": [
+      "Balance",
+      "Align",
+      "Straighten",
+      "Unbiased"
+    ],
+    "example": "The media coverage seemed to skew the facts in favor of one political candidate. The graph had a noticeable skew to the right.",
+    "importance": 1
+  },
+  {
+    "word": "Pronounced",
+    "part_of_speech": "Adjective",
+    "meaning": "Pronounced describes something that is very noticeable, distinct, or clearly expressed.",
+    "synonyms": [
+      "Evident",
+      "Noticeable",
+      "Distinct",
+      "Clear"
+    ],
+    "antonyms": [
+      "Subtle",
+      "Inconspicuous",
+      "Hidden",
+      "Indistinct"
+    ],
+    "example": "Her enthusiasm for the project was pronounced, and it inspired the entire team.",
+    "importance": 1
+  },
+  {
+    "word": "Discernible",
+    "part_of_speech": "Adjective",
+    "meaning": "Discernible describes something that can be seen, recognized, or distinguished because it is clear or perceivable.",
+    "synonyms": [
+      "Visible",
+      "Observable",
+      "Noticeable",
+      "Apparent"
+    ],
+    "antonyms": [
+      "Invisible",
+      "Obscure",
+      "Unnoticeable",
+      "Indiscernible"
+    ],
+    "example": "There was a discernible improvement in the quality of the product.",
+    "importance": 1
+  },
+  {
+    "word": "Buoyant",
+    "part_of_speech": "Adjective",
+    "meaning": "Buoyant describes something that is capable of floating on water or is cheerful, optimistic, and light-hearted in nature.",
+    "synonyms": [
+      "Floating",
+      "Upbeat",
+      "Optimistic",
+      "Joyful"
+    ],
+    "antonyms": [
+      "Sinking",
+      "Downcast",
+      "Pessimistic",
+      "Heavy-hearted"
+    ],
+    "example": "The buoyant boat glided smoothly on the water. Despite the challenges, her buoyant spirit never wavered.",
+    "importance": 1
+  },
+  {
+    "word": "Dilute",
+    "part_of_speech": "Verb/Adjective",
+    "meaning": "Dilute, as a verb, means to make a substance thinner or weaker by adding another substance. As an adjective, it describes something that has been made less concentrated or potent.",
+    "synonyms": [
+      "Weaken",
+      "Thin",
+      "Water down",
+      "Reduce"
+    ],
+    "antonyms": [
+      "Concentrate",
+      "Strengthen",
+      "Intensify",
+      "Undiluted"
+    ],
+    "example": "She had to dilute the paint with water for a lighter shade. The dilute solution was less effective than the concentrated one.",
+    "importance": 1
+  },
+  {
+    "word": "Underwhelming",
+    "part_of_speech": "Adjective",
+    "meaning": "Underwhelming describes something that is disappointing or fails to meet expectations, often because it lacks excitement or impact.",
+    "synonyms": [
+      "Disappointing",
+      "Unimpressive",
+      "Lackluster",
+      "Unexciting"
+    ],
+    "antonyms": [
+      "Impressive",
+      "Exciting",
+      "Thrilling",
+      "Awe-inspiring"
+    ],
+    "example": "The movie's plot was underwhelming, and many viewers left the theater unsatisfied.",
+    "importance": 1
+  },
+  {
+    "word": "Deftly",
+    "part_of_speech": "Adverb",
+    "meaning": "Deftly means to do something skillfully, quickly, and with precision or dexterity.",
+    "synonyms": [
+      "Skillfully",
+      "Cleverly",
+      "Adeptly",
+      "Expertly"
+    ],
+    "antonyms": [
+      "Clumsily",
+      "Awkwardly",
+      "Ineptly",
+      "Unskillfully"
+    ],
+    "example": "He deftly solved the complex puzzle in record time.",
+    "importance": 2
+  },
+  {
+    "word": "Moot",
+    "part_of_speech": "Adjective",
+    "meaning": "Moot refers to a point or topic that is open to debate, discussion, or uncertainty, often lacking practical significance.",
+    "synonyms": [
+      "Debatable",
+      "Questionable",
+      "Controversial",
+      "Arguable"
+    ],
+    "antonyms": [
+      "Established",
+      "Certain",
+      "Undebatable",
+      "Settled"
+    ],
+    "example": "The proposed changes are now moot due to the cancellation of the project.",
+    "importance": 4
+  },
+  {
+    "word": "Profound",
+    "part_of_speech": "Adjective",
+    "meaning": "Profound describes something that is deep, intellectually deep, or having great meaning or significance.",
+    "synonyms": [
+      "Deep",
+      "Intense",
+      "Thoughtful",
+      "Significant"
+    ],
+    "antonyms": [
+      "Shallow",
+      "Superficial",
+      "Insignificant",
+      "Trivial"
+    ],
+    "example": "The professor delivered a profound lecture on the philosophy of ethics.",
+    "importance": 1
+  },
+  {
+    "word": "Exacerbate",
+    "part_of_speech": "Verb",
+    "meaning": "Exacerbate means to make a problem, situation, or condition worse or more severe.",
+    "synonyms": [
+      "Worsen",
+      "Aggravate",
+      "Intensify",
+      "Escalate"
+    ],
+    "antonyms": [
+      "Alleviate",
+      "Improve",
+      "Relieve",
+      "Mitigate"
+    ],
+    "example": "His criticism only served to exacerbate the already tense atmosphere in the room.",
+    "importance": 1
+  },
+  {
+    "word": "Pertaining to",
+    "part_of_speech": "Phrase",
+    "meaning": "Pertaining to means related to or connected with a particular subject or topic.",
+    "synonyms": [
+      "Related to",
+      "Concerning",
+      "Regarding",
+      "Relating to"
+    ],
+    "antonyms": [
+      "Unrelated to",
+      "Irrelevant to",
+      "Not concerning",
+      "Not connected with"
+    ],
+    "example": "The report contains information pertaining to the company's financial performance.",
+    "importance": 1
+  },
+  {
+    "word": "Grapple with",
+    "part_of_speech": "Phrase",
+    "meaning": "Grapple with means to struggle or wrestle with a problem, challenge, or difficult situation.",
+    "synonyms": [
+      "Wrestle with",
+      "Tackle",
+      "Confront",
+      "Deal with"
+    ],
+    "antonyms": [
+      "Avoid",
+      "Ignore",
+      "Shirk",
+      "Evade"
+    ],
+    "example": "The team had to grapple with budget constraints to complete the project successfully.",
+    "importance": 1
+  }
+]
